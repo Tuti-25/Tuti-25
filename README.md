@@ -1,4 +1,4 @@
-Hi 👋 My name is Kenneth Gonzalez
+Hi 👋 my name is Kenneth Gonzalez
 =================================
 
 I love coding, but I’d rather be playing video games.
